@@ -1,0 +1,37 @@
+.iconaSocial {
+    font-size: 50px;
+    color: cornflowerblue;
+}
+.social {
+    padding: 20px;
+    align-items: center;
+}
+.iconaSocial:hover {
+    color: rgb(67, 67, 236);
+}
+.bottone{
+    background-color:cornflowerblue;
+}
+.immagine{
+    width: 30px;
+
+}
+.fotos{
+    width: 150px;
+    height: 150px;
+}
+.fotosotto{
+    width: 180px;
+    height: 180px;
+}
+.mylist {
+    list-style: none;
+    text-decoration: none;
+}
+
+.mylist:hover {
+    text-decoration: underline;
+}
+.mymenu{
+    margin-left: 32px;
+}
