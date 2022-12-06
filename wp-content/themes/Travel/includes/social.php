@@ -12,8 +12,8 @@
                 <a href="#"> <i class="fa-brands fa-square-instagram iconaSocial"></i></a> 
             </div>
             <div class="col-md-2 offset-3 col-sm-12">
-                <button type="button" class="btn btn-primary bottone">Contattaci</button>
-            </div>
+               <a href="http://localhost:8888/TravelWP/contattaci"> <button type="button" class="btn btn-primary bottone">Contattaci</button>
+            </div></a> 
         </div>
     
     </div>
